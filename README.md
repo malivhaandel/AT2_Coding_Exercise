@@ -72,7 +72,7 @@
       <img width="250" height="150" alt="week3_text_to_point_iteration4" src="https://github.com/user-attachments/assets/e0fdc8c2-7b34-4f5f-8928-4c02e71a4ec4" />
     </td>
   </tr>
-
+  
   <tr> 
     <td align="center">
       iteration 5<br>
@@ -80,15 +80,15 @@
     </td>
     <td align="center">
       iteration 6<br>
-     <img width="250" height="150" alt="week4_type_block_iteration6" src="https://github.com/user-attachments/assets/339dc6ec-ad07-4c75-8e16-b69410b3e522" />
+     <img width="250" height="150" alt="week3_text_to_point_iteration6" src="https://github.com/user-attachments/assets/f7a4d00b-c781-41a1-b5ef-ccbfc00ccbe9" />
   </td>
     <td align="center">
       iteration 7<br>
-      <img width="250" height="150" alt="week4_type_block_iteration7" src="https://github.com/user-attachments/assets/a9a6ec0b-d194-440f-bdc4-746c3482d2be" />
+     <img width="250" height="150" alt="week3_text_to_point_iteration7" src="https://github.com/user-attachments/assets/015cc5cc-8238-47c5-9ef8-9f9b86ab236e" />
     </td>
     <td align="center">
       iteration 8<br>
-      <img width="250" height="150" alt="week4_type_block_iteration8" src="https://github.com/user-attachments/assets/ac06ecf2-48df-4719-8a52-076e460dd709" />
+      <img width="250" height="150" alt="week3_type_to_point_iteration8" src="https://github.com/user-attachments/assets/b38411c1-dd65-423d-a7d1-33ddf068eb2c" />
     </td>
   </tr>
 </table>
