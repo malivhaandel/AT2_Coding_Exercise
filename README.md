@@ -95,7 +95,45 @@
 
 ## Week 4 – Type Block
 
-Coming soon...
+<table>
+  <tr>
+    <td align="center">
+      iteration 1<br>
+      <img width="250" height="150" alt="week4_type_blocke_iteration1" src="https://github.com/user-attachments/assets/0d85f04e-ad04-47e2-9f38-c48c0dc2f6b9" />
+    </td>
+    <td align="center">
+      iteration 2<br>
+      <img width="250" height="150" alt="week4_type_block_iteration2" src="https://github.com/user-attachments/assets/ed8ca142-377e-4b4f-a7bd-4ad0256afe71" />
+    </td>
+    <td align="center">
+      iteration 3<br>
+      <img width="250" height="150" alt="week4_type_block_iteration3" src="https://github.com/user-attachments/assets/15da61a8-1021-4922-9ab9-4450fb38804c" />
+    </td>
+    <td align="center">
+      iteration 4<br>
+      <img width="250" height="150" alt="week4_type_block_iteration4" src="https://github.com/user-attachments/assets/5f2a9530-c89a-48b7-abd0-1ba929196fe6" />
+    </td>
+  </tr>
+
+  <tr> 
+    <td align="center">
+      iteration 5<br>
+      <img width="250" height="150" alt="week4_type_block_iteration5" src="https://github.com/user-attachments/assets/f1ee77e9-0dae-4a72-a414-4ea1173c83ad" />
+    </td>
+    <td align="center">
+      iteration 6<br>
+     <img width="250" height="150" alt="week4_type_block_iteration6" src="https://github.com/user-attachments/assets/339dc6ec-ad07-4c75-8e16-b69410b3e522" />
+  </td>
+    <td align="center">
+      iteration 7<br>
+      <img width="250" height="150" alt="week4_type_block_iteration7" src="https://github.com/user-attachments/assets/a9a6ec0b-d194-440f-bdc4-746c3482d2be" />
+    </td>
+    <td align="center">
+      iteration 8<br>
+      <img width="250" height="150" alt="week4_type_block_iteration8" src="https://github.com/user-attachments/assets/ac06ecf2-48df-4719-8a52-076e460dd709" />
+    </td>
+  </tr>
+</table>
 
 ---
 
