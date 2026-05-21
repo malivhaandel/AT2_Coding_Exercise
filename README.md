@@ -28,7 +28,7 @@
     </td>
   </tr>
 
-  <tr>
+  <tr> 
     <td align="center">
       iteration 5<br>
       <img width="250" height="150" alt="week2 iteration 5" src="https://github.com/user-attachments/assets/95a9e2a7-dfb7-44af-b696-bbd015d14d15">
@@ -52,7 +52,44 @@
 
 ## Week 3 – Text to Point
 
-Coming soon...
+<table>
+  <tr>
+    <td align="center">
+      iteration 1<br>
+      <img width="250" height="150" alt="week3 iteration 1" src="https://github.com/user-attachments/assets/75aad2ec-2edf-4ebc-bfbd-49a00c2090ae">
+    </td>
+    <td align="center">
+      iteration 2<br>
+      <img width="250" height="150" alt="week3 iteration 2" src="https://github.com/user-attachments/assets/32c30347-cf45-40d9-babd-ba0dff50fc64">
+    </td>
+     <td align="center">
+      iteration 3<br>
+      <img width="250" height="150" alt="week4_type_string_iterations3" src="https://github.com/user-attachments/assets/f27a40f9-9985-43d3-9119-4436c08d50e3" />
+    </td>
+     <td align="center">
+      iteration 4<br>
+      <img width="250" height="150" alt="week4_type_string_iteration4" src="https://github.com/user-attachments/assets/bf006490-933f-4ae6-8551-e6967d408e45" />
+  </tr>
+
+  <tr>
+    <td align="center">
+      iteration 5<br>
+     <img width="250" height="150" alt="week4_type_string_iteration5" src="https://github.com/user-attachments/assets/e402c4b0-d34e-416f-a4e4-5ce0e91fc3c0" />
+    </td>
+    <td align="center">
+      iteration 6<br>
+     <img width="250" height="150" alt="week4_type_string_iteration6" src="https://github.com/user-attachments/assets/b90ecb06-0686-44ea-8036-ef3a534be998" />
+    </td>
+    <td align="center">
+      iteration 7<br>
+     <img width="250" height="150" alt="week4_type_string_iteration7" src="https://github.com/user-attachments/assets/d42fb50e-dc60-4d6e-b941-3d8f27c94ccd" />
+    </td>
+    <td align="center">
+      iteration 8<br>
+      <img width="250" height="150" alt="week4_type_string_iteration8" src="https://github.com/user-attachments/assets/35d36157-2daf-4fc3-937c-37d0c3b49e47" />
+    </td>
+  </tr>
+</table>
 
 ---
 
